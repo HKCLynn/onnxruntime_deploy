@@ -1,0 +1,3 @@
+/home/lynn/文档/SCUT/项目/C++project/ort/build/CMakeFiles/test.dir
+/home/lynn/文档/SCUT/项目/C++project/ort/build/CMakeFiles/edit_cache.dir
+/home/lynn/文档/SCUT/项目/C++project/ort/build/CMakeFiles/rebuild_cache.dir
